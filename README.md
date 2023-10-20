@@ -1,5 +1,7 @@
 # All Options in Mathlib4
 
+[all options](./options.md)
+
 * [version of lean](./lean-toolchain)
 * [mathlib4 version](./lakefile.lean)
 
