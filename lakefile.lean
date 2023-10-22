@@ -6,7 +6,7 @@ package «options» {
 }
 
 require mathlib from git
-  "https://github.com/leanprover-community/mathlib4.git" @ "33e0d3e665fb66f3a41f40e5033e75f8750b9389"
+  "https://github.com/leanprover-community/mathlib4.git" @ "3ce43c18f614b76e161f911b75a3e1ef641620ff"
 
 @[default_target]
 lean_lib «Options» {
